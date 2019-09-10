@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+    <color name="bg_gradient_start">#FFAA85</color>
+    <color name="bg_gradient_end">#B3315F</color>
+
+    <color name="statusBar">#B3315F</color>
+    <color name="seperator">#FBFCFC</color>
+
+    <color name="black_button">#2A2C2D</color>
+    <color name="orange_button">#FE8902</color>
+    <color name="red_button">#AE3334</color>
+
+</resources>

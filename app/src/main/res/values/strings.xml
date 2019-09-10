@@ -1,0 +1,55 @@
+<resources>
+
+    <!--Main Screen-->
+    <string name="app_name">Voice Calculater</string>
+    <string name="main_start">Start</string>
+    <string name="guid_btn">Guidance</string>
+
+    <!--Home Screen-->
+    <string name="by_voice_button">By Voice</string>
+    <string name="by_manually_button">Manually</string>
+    <string name="settings_button">App Settings</string>
+
+    <!--App Setting Screen-->
+    <string name="settings_screen">App Settings</string>
+    <string name="in_app_product">In-App Product</string>
+    <string name="app_privacy">App Privacy</string>
+
+
+    <string name="hello_world">Hello world!</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="tap_on_mic">Tap on mic to speak</string>
+
+    <string name="guideLine">Voice commands can be spoken in any order:\n\n\n
+    1.  ( + ) - "Plus"\n
+    2.  ( - ) - "Minus"\n
+    3.  ( / ) - "Divided by"\n
+    4.  ( x ) - "Times"\n
+    5.  ( ^ ) - "To the power of"\n
+    6.  ( . ) - "Point"\n
+    7.  ( , ) - "Comma"\n
+    8.  ( ? ) - "Question mark"\n
+    9.  ( ! ) - "Exclamation point"\n
+    10. ( = ) - "Equals to"\n
+    11. ( @ ) - "At the rate"\n
+    12. ( / ) - "Forward slash"\n
+    13. ( \ ) - "Backslash"\n
+    14. ( % ) - "Percent"\n
+    15. ( &amp; ) - "Ampersand"\n
+    16. ( * ) - "Asterisk"\n
+    17. ( ‘ ) - "Apostrophe"\n
+    18. ( : ) - "Colon"\n
+    19. ( [ ) - "Open bracket"\n
+    20. ( ] ) - "Close bracket"\n
+    21. ( ( ) - "Open parenthesis"\n
+    22. ( ) ) - "Close parenthesis"\n
+    23.  :-( - "Sad face"\n
+    24.  :-) - "Smiley face"\n
+    </string>
+
+    <array name="operators">
+
+    </array>
+
+</resources>
